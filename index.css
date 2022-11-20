@@ -188,8 +188,8 @@ footer{
 
     }
     .hero-content h1{
-        font-size: 32px;
-        line-height: 32px;
+        font-size: 30px;
+        line-height: 30px;
     }
     .features{
         flex-direction: column;
@@ -201,7 +201,7 @@ footer{
         padding: 10px;
     }
     .grid-img{
-        border-radius: 40px;
+        border-radius: 30px;
         width: 100%;
         height: 100%;
     }
